@@ -1,8 +1,8 @@
 {
-  "name": "vue-sjsm",
-  "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "liujieqiong",
+  "name": "course_sys_backend",
+  "version": "2.0.0",
+  "description": "Software Engineering Experiment - 2019 JLU CCST",
+  "author": "CloudMagician",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
